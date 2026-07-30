@@ -1,21 +1,24 @@
-<h2>Hey There 👋</h2>
-I am Abhinav Dahake. 
-A Electronics engineering student with a strong foundation in core electronics, programming, and problem-solving. I work with embedded systems and with hands-on experience in C/C++, data structures, control systems, robotics fundamentals, and circuit analysis. I have Esp32 projects as well as many software projects under my belt. I value clear documentation, consistency, and continuous improvement.
+# Hi, I'm Abhinav Dahake 👋
 
-I regularly practice and build on topics like:
+I'm an Electronics Engineering student passionate about embedded systems, software development.
 
-• Electronics engineering projects involving embedded systems, microcontrollers, op-amps and other electonic components
+## What I Do
+- Build embedded systems using microcontrollers
+- Develop problem solving oriented software projects
+- Work on electronics, robotics, and automation projects
 
-• Learning Data structure and Algorithms using C/C++,  
+## Skills
+- **Languages:** HTML/CSS, C, C++, Python, JavaScript, Typescript, Node.js, React.js, Next.js, JavaFX
+- **Database:** SQL, SQL lite
+- **Core Areas:** Embedded Systems, Electronics, Circuit Design, Robotics, Control Systems
 
-• Robotics & automation concepts (sensors, control logic, system modeling)
+## Currently Learning
+- Embedded Systems & Firmware Development
+- Core Electronics
+- Industry-focused Engineering Projects
+- Data Structures & Algorithms
+- Machine Learning
 
-• Proficiency in languages like C, C++, Python, SQL, MongoDB, HTML, CSS, Js
+I'm always looking to learn, build interesting projects, and collaborate with others.
 
-Currently focused on strengthening:
-
-• Embedded & core electronics concepts
-
-• Practical, industry-oriented projects
-
-Always open to learning, collaboration, and opportunities where engineering fundamentals matter.
+Please Check out my resume : https://canva.link/l8gq0v2queufbaf
