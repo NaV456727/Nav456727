@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav Dahake 👋
 
-I'm an Electronics Engineering student passionate about embedded systems, software development.
+I'm an Electronics Engineering student passionate about embedded systems and software development.
 
 ## What I Do
 - Build embedded systems using microcontrollers
